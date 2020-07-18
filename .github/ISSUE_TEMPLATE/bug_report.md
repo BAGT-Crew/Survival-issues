@@ -24,9 +24,9 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**GPU & CPU Model**
-To find yours, right-click on the start menu and click Device Manager
-You can find them in the processor (CPU) and graphic card (GPU) sections.
+**DxDiag**
+To obtain the DxDiag file, enter "dxdiag" into your start menu. A window will open. Once it finished loading, click "Save All Informations" and save the file somewhere in your pc.
+Once, you saved it, go to pastebin.com, copy-paste the content of the saved file and save it to pastebin. After that, send us the file link here.
 
 **Additional context**
 Add any other context about the problem here.
