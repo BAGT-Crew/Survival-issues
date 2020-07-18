@@ -24,7 +24,7 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Modele de carte graphique et CPU**
+**GPU & CPU Model**
 To find yours, right-click on the start menu and click Device Manager
 You can find them in the processor (CPU) and graphic card (GPU) sections.
 
